@@ -1,0 +1,259 @@
+﻿/* App General */
+"Cancel" = "Отмена";
+"Never" = "Никогда";
+"None" = "Нет";
+"Unnamed" = "Безымянный";
+"Unknown Language" = "Неизвестный язык";
+"Decoder" = "Декодер";
+"iTunes Movies" = "Фильмы iTunes";
+"iTunes TV Shows" = "ТВ-Шоу iTunes";
+"iTunes Video Podcasts" = "Видеоподкаст iTunes";
+"No movie file" = "Отсутствует видеофайл";
+"Subtitle Font Not Found" = "Не найден шрифт субтитров";
+"\"%@\" not found\nSubtitle font setting will be restored to default." =
+    "\"%@\" не найден\nВсе настройки субтитров будут сброшены на стандартные.";
+"Cannot open file" = "Невозможно открыть файл";
+
+/* Check for Updates */
+"Checking for Updates..." = "Проверяем...";
+"Cannot check for update." = "Проверить невозможно.";
+"No update available." = "Обновлений нет.";
+"New version %@ is available." = "Доступна версия %@!";
+"Show Updates" = "Показать обновления";
+"Download" = "Загрузить";
+
+/* MainMenu: File */
+"Opening with %@..." = "Открываю с помощью %@...";
+
+/* MainMenu: Edit */
+"Copy (Including Letter Box)" = "Скопировать (включая бокс с субтитрами)";
+"Copy (Excluding Letter Box)" = "Скопировать (исключая бокс с субтитрами)";
+
+/* MainMenu: Controls */
+"Play_space"  = "Воспроизведение               space";
+"Pause_space" = "Пауза              space";
+"Backward %d sec." = "Отмотать на %d сек.";
+"Forward %d sec." = "Перемотать на %d сек.";
+"Volume Up" = "Увеличение громкости";
+"Volume Down" = "Уменьшение громкости";
+"System Volume Up" = "Увеличение системной громкости";
+"System Volume Down" = "Уменьшение системной громкости";
+
+/* MainMenu : Movie */
+"Reopen With %@" = "Открыть заново с помощью %@";
+"No Sound Track" = "Отключить звук";
+"Sound Track Rotation" = "Смена звуковой дорожки";
+"Save Current Image (Including Letter Box)" = "Сохранить кадр (включая бокс с субтитрами)";
+"Save Current Image (Excluding Letter Box)" = "Сохранить кадр (исключая бокс с субтитрами)";
+
+/* MainMenu : Subtitle */
+"Show Subtitle" = "Показать субтитры";
+"Hide Subtitle" = "Скрыть субтитры";
+"No Subtitle" = "Субтитры отсутствуют";
+"Enable %@ - %@" = "Включить %@ - %@";
+"Disable %@ - %@" = "Отключить %@ - %@";
+"Subtitle Rotation" = "Перебор дорожек субтитров";
+
+/* Message : Playback */
+"Play" = "Воспроизведение";
+"Pause" = "Пауза";
+"Beginning" = "В начало";
+"End" = "В конец";
+"Previous Subtitle" = "Предыдущая дорожка субтитров";
+"Next Subtitle" = "Следующая дорожка субтитров";
+"Previous Frame" = "Предыдущий кадр";
+"Next Frame" = "Следующий кадр";
+"Play Rate" = "Скорость воспроизведения";
+"Range Repeat Beginning %@" = "Начало отрезка повтора %@";
+"Range Repeat End %@" = "Конец отрезка повтора %@";
+"Range Repeat Clear" = "Убрать отрезок повтора";
+
+/* Message : common */
+"%@ enabled" = "%@ включено";
+"%@ disabled" = "%@ отключено";
+"%@ selected" = "%@ выбрано";
+
+/* Message : Audio */
+"Mute" = "Отключить звук";
+"Unmute" = "Включить звук";
+"Volume" = "Громкость";
+"System Volume" = "Системная громкость";
+"Volume cannot be changed in Digital-Out" = "Невозможно отрегулировать звук при использовании цифрового выхода";
+"System Volume cannot be changed in Digital-Out Device" = "Невозможно отрегулировать звук цифрового выхода устройства";
+
+/* Message : Video */
+"Brightness" = "Яркость";
+"Saturation" = "Насыщенность";
+"Contrast" = "Контраст";
+"Hue" = "Оттенок";
+
+/* Message: Subtitle */
+"Cannot Read Subtitle" = "Невозможно открыть субтитры";
+"Reopen with other encodings" = "Открыть заново с другой кодировкой";
+"Letter Box Height : Auto" = "Высота бокса: Автоматическая";
+"Font Size" = "Размер шрифта";
+"HMargin" = "Горизонтальный отступ";
+"VMargin" = "Вертикальный отступ";
+"Line Spacing" = "Высота строк";
+"Sync" = "Синхронизация";
+"sec." = "сек.";
+"Subtitle %@ selected" = "Дорожка субтитров %@ выбрана";
+"Subtitle %@ enabled" = "Дорожка субтитров %@ включена";
+"Subtitle %@ disabled" = "Дорожка субтитров %@ отключена";
+"Subtitle Screen Margin" = "Отступ дорожки субтитров";
+"Subtitle Order" = "Перебор дорожек субтитров";
+
+/* Message : Window */
+"Keep on Top of All Other Windows" = "Поверх всех окон";
+"Don't keep on Top of All Other Windows" = "(отключено) Поверх всех окон";
+"Apply on Playing Only" = "Применять только во время воспроизведения";
+
+/* Control Panel */
+"All Subtitles" = "Все субтитры";
+"Video Track" = "Видео дорожка";
+"Sound Track" = "Звуковая дорожка";
+"Subtitle Track" = "Дорожка субтитров";
+"External Subtitle" = "Внешние субтитры";
+"Mono" = "Моно";
+"Stereo" = "Стерео";
+"5.1 Ch." = "5.1 канал";
+"Digital" = "Цифровой выход";
+"Analog" = "Аналоговый выход";
+"Loading" = "Загрузка";
+"Not Supported Yet" = "Поддержка не реализована";
+
+/* Preferences */
+"General" = "Общие";
+"Video" = "Видео";
+"Audio" = "Аудио";
+"Subtitle" = "Субтитры";
+"Advanced" = "Расширенные";
+"SubtitleTestChar" = "*";
+
+/* Preferences: advanced - codec binding */
+"Set all to QuickTime" = "Все через QuickTime";
+"Set all to FFmpeg" = "Все через FFmpeg";
+"Set all MPEG-4 to QuickTime" = "Все MPEG-4 через QuickTime";
+"Set all MPEG-4 to FFmpeg" = "Все MPEG-4 через FFmpeg";
+"Set to Movist default" = "Настройки Movist по умолчанию";
+
+/* Preferences: advanced - details: general */
+"Activate on Dragging over Main Window" = "Включать при перетаскивании файла на видеоокно";
+"Auto Show Dock in Full Screen" = "Автоматический показ Дока в полноэкранном режиме";
+"Use Play-Panel in Full Screen" = "Использовать панель навигации в полноэкранном режиме";
+"Floating Playlist" = "Полупрозрачный список воспроизведения";
+"Go to Beginning When Reopening Movie" = "Запускать видеофайл с начала при повторном открытии";
+"Go to Beginning When Opening Subtitle" = "Запускать видеофайл с начала при включении субтитров";
+"Movie Resize Center" = "Изменять размер по центру видеоокна";
+"Title Center" = "Сверху в центре";
+"Title Left" = "Сверху слева";
+"Title Right" = "Сверху справа";
+"Bottom Center" = "Снизу в центре";
+"Bottom Left" = "Снизу слева";
+"Bottom Right" = "Снизу справа";
+"Window Resize Type" = "Способ изменения размера видеоокна";
+"Free" = "Свободный";
+"Adjust to Size" = "Подстраивать под размер";
+"Adjust to Width" = "Подстраивать по ширине";
+"Dragging Action on Movie Area" = "Разрешить перетаскивать файлы на видеоокно";
+"Move Window" = "Переместить окно";
+"Capture Movie" = "Захват видеофайла";
+
+/* Preferences: advanced - details: video */
+"Capture Format" = "Формат захвата";
+"Include Letter Box on Capture" = "Включать в видео бокс с субтитрами при захвате";
+"Remove Green Box" = "Убрать зеленую рамку";
+"Video Queue Capacity (8~99)" = "Максимальное количество пунктов в очереди (8~99)";
+"Use Fast Decoding" = "Use Fast Decoding";
+
+/* Preferences: advanced - details: subtitle */
+"Use QuickTime/Perian Subtitles" = "Использовать субтитры QuickTime/Perian";
+"Auto-Load Embedded Subtitles in MKV" = "Автоматически подгружать встроенные в MKV субтитры";
+"Replace New-Line with <BR> for SAMI" = "Заменять New-Line тэгом <BR> при использовании SAMI";
+"Default Subtitle Language Identifiers" = "Определители субтитров по умолчанию";
+"DefaultSubtitleLanguageIdentifiers" = "Russian ru rus rs English en us eng enu ENCC";
+"Auto Letter Box Height Max Lines (1~3)" = "Максимальное количество строк при автоматическом размере бокса с субтитрами (1~3)";
+
+/* Preferences: advanced - details: full-nav */
+"Full Screen Navigation" = "Полноэкранная навигация";
+"Default Navigation Path" = "Путь для навигации по умолчанию";
+"Show Actual Path for Alias or Symbolic-Link" = "Показывать действительный путь для Alias или Symbolic-Link";
+
+/* Playlist */
+"No Subtitle File" = "Отсутствует файл с субтитрами";
+"%d items" = "%d позиций";
+
+/* Codec Desc. */
+"etc." = "Прочие";
+"etc. DESC." = "Прочие";
+"MPEG1 DESC." = "MPEG-1";
+"MPEG2 DESC." = "MPEG-2";
+"MPEG4 DESC." = "MPEG-4";
+"DIV1 DESC." = "DivX MPEG-4 V3.x";
+"DIV2 DESC." = "DivX MPEG-4 V3.x";
+"DIV3 DESC." = "DivX MPEG-4 V3.x";
+"DIV4 DESC." = "DivX MPEG-4 V3.x";
+"DIV5 DESC." = "DivX MPEG-4 V3.x";
+"DIV6 DESC." = "DivX MPEG-4 V3.x";
+"DIVX DESC." = "DivX MPEG-4 V4.x";
+"DX50 DESC." = "DivX MPEG-4 V5.x";
+"XVID DESC." = "Xvid MPEG-4";
+"MP4V DESC." = "Apple MPEG-4";
+"MPG4 DESC." = "Microsoft MPEG-4 V1";
+"MP42 DESC." = "Microsoft MPEG-4 V2";
+"MP43 DESC." = "Microsoft MPEG-4 V3";
+"MP4S DESC." = "Microsoft ISO MPEG-4 V1";
+"M4S2 DESC." = "Microsoft ISO MPEG-4 V1.1";
+"AP41 DESC." = "AngelPotion Definitive";
+"RMP4 DESC." = "REALmagic MPEG-4";
+"SEDG DESC." = "Samsung MPEG-4";
+"FMP4 DESC." = "FFmpeg MPEG-4";
+"BLZ0 DESC." = "DivX for Blizzard";
+"H263 DESC." = "H.263, H.263+";
+"H264 DESC." = "H.264/MPEG-4 AVC";
+"AVC1 DESC." = "Apple H.264";
+"X264 DESC." = "Open Source H.264";
+"VC1 DESC." = "VC-1 (SMPTE 421M)";
+"WMV1 DESC." = "Windows Media Video 7";
+"WMV2 DESC." = "Windows Media Video 8";
+"WMV3 DESC." = "Windows Media Video 9";
+"WVC1 DESC." = "Windows Media Video 9 Advanced Profile";
+"SVQ1 DESC." = "Sorenson Video 1";
+"SVQ3 DESC." = "Sorenson Video 3";
+"VP3 DESC." = "On2 VP3";
+"VP5 DESC." = "On2 VP5";
+"VP6 DESC." = "TrueMotion VP6";
+"VP6F DESC." = "TrueMotion VP6 Flash";
+"RV10 DESC." = "RealVideo";
+"RV20 DESC." = "RealVideo G2";
+"RV30 DESC." = "RealVideo 8";
+"RV40 DESC." = "RealVideo 9, 10";
+"FLV DESC." = "Flash Video";
+"THEORA DESC." = "Theora";
+"HUFFYUV DESC." = "Huffyuv";
+"CINEPAK DESC." = "Cinepak";
+"INDEO2 DESC." = "Indeo Video 2";
+"INDEO3 DESC." = "Indeo Video 3";
+"MJPEG DESC." = "Motion-JPEG";
+"DV DESC." = "DV";
+"PCM DESC." = "PCM";
+"DPCM DESC." = "DPCM";
+"ADPCM DESC." = "ADPCM";
+"MP2 DESC." = "MP2";
+"MP3 DESC." = "MP3";
+"AAC DESC." = "AAC";
+"AC3 DESC." = "AC3";
+"DTS DESC." = "DTS";
+"VORBIS DESC." = "Vorbis";
+"DVAUDIO DESC." = "DV Audio";
+"WMAV1 DESC." = "Windows Media Audio V1";
+"WMAV2 DESC." = "Windows Media Audio V2";
+"RA DESC." = "RealAudio";
+"AMR DESC." = "AMR";
+"ALAC DESC." = "ALAC";
+"FLAC DESC." = "FLAC";
+"QDM2 DESC." = "QDM2";
+"MACE DESC." = "MACE";
+"SPEEX DESC." = "Speex";
+"TTA DESC." = "TTA";
+"WAVPACK DESC." = "WavPack";

@@ -1,0 +1,258 @@
+﻿/* App General */
+"Cancel" = "取消";
+"Never" = "從不";
+"None" = "無";
+"Unnamed" = "未命名";
+"Unknown Language" = "未知的語言";
+"Decoder" = "解碼器";
+"iTunes Movies" = "iTunes 影片";
+"iTunes TV Shows" = "iTunes 電視影集";
+"iTunes Video Podcast" = "iTunes Video Podcast";
+"No movie file" = "沒有影片檔案";
+"Subtitle Font Not Found" = "沒有找到字幕字形";
+"\"%@\" not found\nSubtitle font setting will be restored to default." =
+    "\"%@\" 沒有找到\n字幕字體設定將被回復為預設值.";
+"Cannot open file" = "無法開啓檔案";
+
+/* Check for Updates */
+"Checking for Updates..." = "檢查更新中...";
+"Cannot check for update." = "無法檢查更新.";
+"No update available." = "沒有更新可利用.";
+"New version %@ is available." = "新版本的 %@ 可利用.";
+"Show Updates" = "顯示更新";
+"Download" = "下載";
+
+/* MainMenu: File */
+"Opening with %@..." = "開啓由 %@...";
+
+/* MainMenu: Edit */
+"Copy (Including Letter Box)" = "拷貝 (包括螢幕)";
+"Copy (Excluding Letter Box)" = "拷貝 (不包括螢幕)";
+
+/* MainMenu: Controls */
+"Play_space"  = "播放               space";
+"Pause_space" = "暫停              space";
+"Backward %d sec." = "往回 %d 秒";
+"Forward %d sec." = "往前 %d 秒";
+"Volume Up" = "增加音";
+"Volume Down" = "降低音量";
+"System Volume Up" = "增加系統音量";
+"System Volume Down" = "降低系統音量";
+
+/* MainMenu : Movie */
+"Reopen With %@" = "重新開啓由 %@";
+"No Sound Track" = "沒有聲音軌道";
+"Sound Track Rotation" = "聲音軌道循環";
+"Save Current Image (Including Letter Box)" = "儲存目前影像 (包括螢幕)";
+"Save Current Image (Excluding Letter Box)" = "儲存目前影像 (不包括螢幕)";
+
+/* MainMenu : Subtitle */
+"Show Subtitle" = "顯示字幕";
+"Hide Subtitle" = "隱藏字幕";
+"No Subtitle" = "沒有字幕";
+"Enable %@ - %@" = "啓動 %@ - %@";
+"Disable %@ - %@" = "取消 %@ - %@";
+"Subtitle Rotation" = "字幕旋轉";
+
+/* Message : Playback */
+"Play" = "播放";
+"Pause" = "暫停";
+"Beginning" = "開始";
+"End" = "結束";
+"Previous Subtitle" = "上一個字幕";
+"Next Subtitle" = "下一個字幕";
+"Previous Frame" = "上一個影格";
+"Next Frame" = "下一個影格";
+"Play Rate" = "播放速率";
+"Range Repeat Beginning %@" = "開始循環範圍 %@";
+"Range Repeat End %@" = "結束循環範圍 %@";
+"Range Repeat Clear" = "清除循環範圍";
+
+/* Message : common */
+"%@ enabled" = "%@ 已啓動";
+"%@ disabled" = "%@ 已取消";
+"%@ selected" = "%@ 已選擇";
+
+/* Message : Audio */
+"Mute" = "靜音";
+"Unmute" = "取消靜音";
+"Volume" = "音量";
+"System Volume" = "系統音量";
+"Volume cannot be changed in Digital-Out" = "音量無法被更改在數位輸出";
+"System Volume cannot be changed in Digital-Out Device" = "系統音量無法更改在數位輸出設備";
+
+/* Message : Video */
+"Brightness" = "亮度";
+"Saturation" = "飽和度";
+"Contrast" = "對比";
+"Hue" = "色相";
+
+/* Message: Subtitle */
+"Cannot Read Subtitle" = "無法讀取字幕";
+"Reopen with other encodings" = "由其他編碼器重新開啓";
+"Letter Box Height : Auto" = "螢幕高度 : 自動";
+"Font Size" = "字體大小";
+"HMargin" = "水平邊距";
+"VMargin" = "垂直邊距";
+"Line Spacing" = "行距";
+"Sync" = "同步";
+"sec." = "秒";
+"Subtitle %@ selected" = "字幕 %@ 已選擇";
+"Subtitle %@ enabled" = "字幕 %@ 已啓動";
+"Subtitle %@ disabled" = "字幕 %@ 已取消";
+"Subtitle Screen Margin" = "字幕 螢幕邊緣";
+"Subtitle Order" = "字幕命令";
+
+/* Message : Window */
+"Keep on Top of All Other Windows" = "保持在所有視窗支上";
+"Don't keep on Top of All Other Windows" = "不要保持在所有視窗支上";
+"Apply on Playing Only" = "僅在播放影片時適用";
+
+/* Control Panel */
+"All Subtitles" = "所有字幕";
+"Video Track" = "影片軌道";
+"Sound Track" = "聲音軌道";
+"Subtitle Track" = "字幕軌道";
+"External Subtitle" = "外掛字幕";
+"Mono" = "單聲道";
+"Stereo" = "立體聲";
+"5.1 Ch." = "5.1 聲道";
+"Digital" = "數位";
+"Analog" = "類比";
+"Loading" = "載入中";
+"Not Supported Yet" = "未支援";
+
+/* Preferences */
+"General" = "一般";
+"Video" = "影片";
+"Audio" = "聲音";
+"Subtitle" = "字幕";
+"Advanced" = "進階";
+"SubtitleTestChar" = "*";
+
+/* Preferences: advanced - codec binding */
+"Set all to QuickTime" = "設定所有到 QuickTime";
+"Set all to FFmpeg" = "設定所有到 FFmpeg";
+"Set all MPEG-4 to QuickTime" = "設定所有 MPEG-4 到 QuickTime";
+"Set all MPEG-4 to FFmpeg" = "設定所有 MPEG-4 到 FFmpeg";
+"Set to Movist default" = "設定到 Movist 預設";
+
+/* Preferences: advanced - details: general */
+"Activate on Dragging over Main Window" = "拖過主視窗時啟動";
+"Auto Show Dock in Full Screen" = "在全螢幕時自動顯示 Dock";
+"Use Play-Panel in Full Screen" = "在全螢幕時使用播放面板";
+"Floating Playlist" = "浮動播放清單";
+"Goto Begginning When Reopen Movie" = "重新打開影片時跳轉到開始";
+"Goto Begginning When Open Subtitle" = "重新打開字幕時跳轉到開始";
+"Movie Resize Center" = "影片調整大小居中";
+"Title Center" = "標題居中";
+"Title Left" = "標題靠左";
+"Title Right" = "標題靠右";
+"Bottom Center" = "底部居中";
+"Bottom Left" = "底部靠左";
+"Bottom Right" = "底部靠右";
+"Window Resize Type" = "調整視窗類型";
+"Free" = "自由的";
+"Adjust to Size" = "調整大小";
+"Adjust to Width" = "調整寬度";
+"Dragging Action on Movie Area" = "在影片區拖動";
+"Move Window" = "移動式窗";
+"Capture Movie" = "擷取影片";
+
+/* Preferences: advanced - details: video */
+"Capture Format" = "擷取格式";
+"Include Letter Box on Capture" = "擷取包含螢幕";
+"Remove Green Box" = "移除綠色邊框";
+"Video Queue Capacity (8~99)" = "影片序列容量 (8~99)";
+
+/* Preferences: advanced - details: subtitle */
+"Use QuickTime/Perian Subtitles" = "使用 QuickTime/Perian 字幕";
+"Auto-Load Embedded Subtitles in MKV" = "自動載入 MKV 中嵌入的字幕";
+"Replace New-Line with <BR> for SAMI" = "使用 <BR> 替換 SAMI 的新行";
+"Default Subtitle Language Identifiers" = "預設字幕語言標識";
+"DefaultSubtitleLanguageIdentifiers" = "English en us eng enu ENCC";
+"Auto Letter Box Height Max Lines (1~3)" = "自動螢幕高度最大行數 (1~3)";
+
+/* Preferences: advanced - details: full-nav */
+"Full Screen Navigation" = "全螢幕瀏覽";
+"Default Navigation Path" = "預設瀏覽路徑";
+"Show Actual Path for Alias or Symbolic-Link" = "顯示別名或超級連結的實際路徑";
+
+/* Playlist */
+"No Subtitle File" = "沒有字幕檔案";
+"%d items" = "%d 項目";
+
+/* Codec Desc. */
+"etc." = "Etc.";
+"etc. DESC." = "Etc.";
+"MPEG1 DESC." = "MPEG-1";
+"MPEG2 DESC." = "MPEG-2";
+"MPEG4 DESC." = "MPEG-4";
+"DIV1 DESC." = "DivX MPEG-4 V3.x";
+"DIV2 DESC." = "DivX MPEG-4 V3.x";
+"DIV3 DESC." = "DivX MPEG-4 V3.x";
+"DIV4 DESC." = "DivX MPEG-4 V3.x";
+"DIV5 DESC." = "DivX MPEG-4 V3.x";
+"DIV6 DESC." = "DivX MPEG-4 V3.x";
+"DIVX DESC." = "DivX MPEG-4 V4.x";
+"DX50 DESC." = "DivX MPEG-4 V5.x";
+"XVID DESC." = "Xvid MPEG-4";
+"MP4V DESC." = "Apple MPEG-4";
+"MPG4 DESC." = "Microsoft MPEG-4 V1";
+"MP42 DESC." = "Microsoft MPEG-4 V2";
+"MP43 DESC." = "Microsoft MPEG-4 V3";
+"MP4S DESC." = "Microsoft ISO MPEG-4 V1";
+"M4S2 DESC." = "Microsoft ISO MPEG-4 V1.1";
+"AP41 DESC." = "AngelPotion Definitive";
+"RMP4 DESC." = "REALmagic MPEG-4";
+"SEDG DESC." = "Samsung MPEG-4";
+"FMP4 DESC." = "FFmpeg MPEG-4";
+"BLZ0 DESC." = "DivX for Blizzard";
+"H263 DESC." = "H.263, H.263+";
+"H264 DESC." = "H.264/MPEG-4 AVC";
+"AVC1 DESC." = "Apple H.264";
+"X264 DESC." = "Open Source H.264";
+"VC1 DESC." = "VC-1 (SMPTE 421M)";
+"WMV1 DESC." = "Windows Media Video 7";
+"WMV2 DESC." = "Windows Media Video 8";
+"WMV3 DESC." = "Windows Media Video 9";
+"WVC1 DESC." = "Windows Media Video 9 Advanced Profile";
+"SVQ1 DESC." = "Sorenson Video 1";
+"SVQ3 DESC." = "Sorenson Video 3";
+"VP3 DESC." = "On2 VP3";
+"VP5 DESC." = "On2 VP5";
+"VP6 DESC." = "TrueMotion VP6";
+"VP6F DESC." = "TrueMotion VP6 Flash";
+"RV10 DESC." = "RealVideo";
+"RV20 DESC." = "RealVideo G2";
+"RV30 DESC." = "RealVideo 8";
+"RV40 DESC." = "RealVideo 9, 10";
+"FLV DESC." = "Flash Video";
+"THEORA DESC." = "Theora";
+"HUFFYUV DESC." = "Huffyuv";
+"CINEPAK DESC." = "Cinepak";
+"INDEO2 DESC." = "Indeo Video 2";
+"INDEO3 DESC." = "Indeo Video 3";
+"MJPEG DESC." = "Motion-JPEG";
+"DV DESC." = "DV";
+"PCM DESC." = "PCM";
+"DPCM DESC." = "DPCM";
+"ADPCM DESC." = "ADPCM";
+"MP2 DESC." = "MP2";
+"MP3 DESC." = "MP3";
+"AAC DESC." = "AAC";
+"AC3 DESC." = "AC3";
+"DTS DESC." = "DTS";
+"VORBIS DESC." = "Vorbis";
+"DVAUDIO DESC." = "DV Audio";
+"WMAV1 DESC." = "Windows Media Audio V1";
+"WMAV2 DESC." = "Windows Media Audio V2";
+"RA DESC." = "RealAudio";
+"AMR DESC." = "AMR";
+"ALAC DESC." = "ALAC";
+"FLAC DESC." = "FLAC";
+"QDM2 DESC." = "QDM2";
+"MACE DESC." = "MACE";
+"SPEEX DESC." = "Speex";
+"TTA DESC." = "TTA";
+"WAVPACK DESC." = "WavPack";

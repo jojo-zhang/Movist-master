@@ -1,0 +1,259 @@
+﻿/* App General */
+"Cancel" = "Vazgeç";
+"Never" = "Asla";
+"None" = "Hiçbiri";
+"Unnamed" = "İsimsiz";
+"Unknown Language" = "Bilinmeyen Dil";
+"Decoder" = "Çözücü";
+"iTunes Movies" = "iTunes Film";
+"iTunes TV Shows" = "iTunes TV Dizisi";
+"iTunes Video Podcasts" = "iTunes Video Podcasts";
+"No movie file" = "Film dosyası yok";
+"Subtitle Font Not Found" = "Altyazı Fontu Bulunamadı";
+"\"%@\" bulunamadı\nAltyazı ayarları varsayılan olarak ayarlanacak." =
+    "\"%@\" bulunamadı\nAltyazı ayarları varsayılan olarak ayarlanacak.";
+"Cannot open file" = "Dosya açılamadı";
+
+/* Check for Updates */
+"Checking for Updates..." = "Güncelleme kontrol ediliyor...";
+"Cannot check for update." = "Güncelleme kontrol edilemiyor.";
+"No update available." = "Güncelleme yok.";
+"New version %@ is available." = "Yeni versiyon %@ indirilebilir durumda.";
+"Show Updates" = "Güncellemeleri göster";
+"Download" = "İndir";
+
+/* MainMenu: File */
+"Opening with %@..." = "%@ ile açılıyor...";
+
+/* MainMenu: Edit */
+"Copy (Including Letter Box)" = "Kopyala (Boşluk dahil)";
+"Copy (Excluding Letter Box)" = "Kopyala (Boşluk hariç)";
+
+/* MainMenu: Controls */
+"Play_space"  = "Oynat                boşluk";
+"Pause_space" = "Duraklat             boşluk";
+"Backward %d sec." = "%d sn geri.";
+"Forward %d sec." = "%d sn ileri.";
+"Volume Up" = "Sesi artır";
+"Volume Down" = "Sesi azalt";
+"System Volume Up" = "Sistem sesini artır";
+"System Volume Down" = "Sistem sesini azaltn";
+
+/* MainMenu : Movie */
+"Reopen With %@" = "%@ ile tekrar aç";
+"No Sound Track" = "Ses izi yok";
+"Sound Track Rotation" = "Ses izi dönüşümü";
+"Save Current Image (Including Letter Box)" = "Şimdiki Resmi kaydet (Boşluk dahil)";
+"Save Current Image (Excluding Letter Box)" = "Şimdiki Resmi kaydet (Boşluk hariç)";
+
+/* MainMenu : Subtitle */
+"Show Subtitle" = "Altyazıyı göster";
+"Hide Subtitle" = "Altyazıyı gizle";
+"No Subtitle" = "Altyazı yok";
+"Enable %@ - %@" = "Ayarla %@ - %@";
+"Disable %@ - %@" = "Engelle %@ - %@";
+"Subtitle Rotation" = "Altyazı dönüşümü";
+
+/* Message : Playback */
+"Play" = "Oynat";
+"Pause" = "Duraklat";
+"Beginning" = "Başlangıç";
+"End" = "Son";
+"Previous Subtitle" = "Önceki Altyazı";
+"Next Subtitle" = "Sonraki Altyazı";
+"Previous Frame" = "Önceki Kare";
+"Next Frame" = "Sonraki Kare";
+"Play Rate" = "Oynatma Hızı";
+"Range Repeat Beginning %@" = "Başlangıca Göre Sırala %@";
+"Range Repeat End %@" = "Sona Göre Sırala %@";
+"Range Repeat Clear" = "Sıralamayı Sıfırla";
+
+/* Message : common */
+"%@ enabled" = "%@ ayarlandı";
+"%@ disabled" = "%@ engellendi";
+"%@ selected" = "%@ seçildi";
+
+/* Message : Audio */
+"Mute" = "Sessiz";
+"Unmute" = "Sesli";
+"Volume" = "Ses";
+"System Volume" = "Sistem Sesi";
+"Volume cannot be changed in Digital-Out" = "Dijital-Çıkış da ses değiştirilemez";
+"System Volume cannot be changed in Digital-Out Device" = "Dijital-Çıkış da sistem sesi değiştirilemez";
+
+/* Message : Video */
+"Brightness" = "Parlaklık";
+"Saturation" = "Canlılık";
+"Contrast" = "Karşıtlık";
+"Hue" = "Renk";
+
+/* Message: Subtitle */
+"Cannot Read Subtitle" = "Altyazı Okunamadı";
+"Reopen with other encodings" = "Diğer şifrlemeler ile aç";
+"Letter Box Height : Auto" = "Kutu yüksekliği : Otomatik";
+"Font Size" = "Font Boyutu";
+"HMargin" = "Yatay-Boşluk";
+"VMargin" = "Dikey-Boşluk";
+"Line Spacing" = "Sıra boşluğu";
+"Sync" = "Eşle";
+"sec." = "sn.";
+"Subtitle %@ selected" = "Altyazı %@ seçildi";
+"Subtitle %@ enabled" = "Altyazı %@ etkinleştirildi";
+"Subtitle %@ disabled" = "Altyazı %@ engellendi";
+"Subtitle Screen Margin" = "Altyazı Ekran Kenar Boşluğu";
+"Subtitle Order" = "Altyazı Sırası";
+
+/* Message : Window */
+"Keep on Top of All Other Windows" = "Her Zaman Üstte Tut";
+"Don't keep on Top of All Other Windows" = "Her Zaman Üstte Tutma";
+"Apply on Playing Only" = "Yalnızca Oynatılana Uygula";
+
+/* Control Panel */
+"All Subtitles" = "Tüm Altyazılar";
+"Video Track" = "Video İzi";
+"Sound Track" = "Ses İzi";
+"Subtitle Track" = "Altyazı İzi";
+"External Subtitle" = "Harici Altyazılar";
+"Mono" = "Tek Kanal";
+"Stereo" = "Çift Kanal";
+"5.1 Ch." = "5.1 Kanal";
+"Digital" = "Dijital";
+"Analog" = "Analog";
+"Loading" = "Yükleniyor";
+"Not Supported Yet" = "Not Supported Yet";
+
+/* Preferences */
+"General" = "Genel";
+"Video" = "Video";
+"Audio" = "Ses";
+"Subtitle" = "Altyazı";
+"Advanced" = "Gelişmiş";
+"SubtitleTestChar" = "Ğ";
+
+/* Preferences: advanced - codec binding */
+"Set all to QuickTime" = "Hepsini QuickTime ayarla";
+"Set all to FFmpeg" = "Hepsini FFmpeg ayarla";
+"Set all MPEG-4 to QuickTime" = "Tüm MPEG-4 leri QuickTime ayarla";
+"Set all MPEG-4 to FFmpeg" = "Tüm MPEG-4 leri FFmpeg ayarla";
+"Set to Movist default" = "Movist varsayılanlarına ayarla";
+
+/* Preferences: advanced - details: general */
+"Activate on Dragging over Main Window" = "Ana Pencere Üzerinden Taşı";
+"Auto Show Dock in Full Screen" = "Tam Ekranda Dock u Otomatik Göster";
+"Use Play-Panel in Full Screen" = "Tam Ekranda Oynatma Panelini Göster";
+"Floating Playlist" = "Akıcı Oynatma Listesi";
+"Go to Beginning When Reopening Movie" = "Film Tekrar Açıldığında Başa Dön";
+"Go to Beginning When Opening Subtitle" = "Altyazı Açıldığında Başa Dön";
+"Movie Resize Center" = "Yeniden Boyutlandırma Merkezi";
+"Title Center" = "Başlık Ortada";
+"Title Left" = "Başlık Solda";
+"Title Right" = "Başlık Sağda";
+"Bottom Center" = "Alt Orta";
+"Bottom Left" = "Alt Sol";
+"Bottom Right" = "Alt Sağ";
+"Window Resize Type" = "Pencere Boyutlandırma Tipi";
+"Free" = "Serbest";
+"Adjust to Size" = "Ölçüye Göre Ayarla";
+"Adjust to Width" = "Genişliğe Göre Ayarla";
+"Dragging Action on Movie Area" = "Film Bölgesindeki Eylem";
+"Move Window" = "Pencereyi Taşı";
+"Capture Movie" = "Resim Yakala";
+
+/* Preferences: advanced - details: video */
+"Capture Format" = "Yakalama Biçimi";
+"Include Letter Box on Capture" = "Yakalanana Kenar Boşluğu Ekle";
+"Remove Green Box" = "Yeşil Kutuyu Kaldır";
+"Video Queue Capacity (8~99)" = "Video Queue Capacity (8~99)";
+"Use Fast Decoding" = "Use Fast Decoding";
+
+/* Preferences: advanced - details: subtitle */
+"Use QuickTime/Perian Subtitles" = "QuickTime/Perian Altyazısını Kullan";
+"Auto-Load Embedded Subtitles in MKV" = "MKV İçine Gömülü Altyazıyı Kullan";
+"Replace New-Line with <BR> for SAMI" = "New-Line ı SAMI içinde <BR> ile değiştir";
+"Default Subtitle Language Identifiers" = "Varsayılan Altyazı Dili Belirleyicileri";
+"DefaultSubtitleLanguageIdentifiers" = "Turkish Türkçe Trk Tur TR tr";
+"Auto Letter Box Height Max Lines (1~3)" = "Otomatik Boşluk Yüksekliği (1~3)";
+
+/* Preferences: advanced - details: full-nav */
+"Full Screen Navigation" = "Tam Ekran Gezi";
+"Default Navigation Path" = "Varsayılan Gezi Yolu";
+"Show Actual Path for Alias or Symbolic-Link" = "Kısayollar İçin Doğru Yolu Göster";
+
+/* Playlist */
+"No Subtitle File" = "Altyazı Dosyası Yok";
+"%d items" = "%d nesne";
+
+/* Codec Desc. */
+"etc." = "Etc.";
+"etc. DESC." = "Etc.";
+"MPEG1 DESC." = "MPEG-1";
+"MPEG2 DESC." = "MPEG-2";
+"MPEG4 DESC." = "MPEG-4";
+"DIV1 DESC." = "DivX MPEG-4 V3.x";
+"DIV2 DESC." = "DivX MPEG-4 V3.x";
+"DIV3 DESC." = "DivX MPEG-4 V3.x";
+"DIV4 DESC." = "DivX MPEG-4 V3.x";
+"DIV5 DESC." = "DivX MPEG-4 V3.x";
+"DIV6 DESC." = "DivX MPEG-4 V3.x";
+"DIVX DESC." = "DivX MPEG-4 V4.x";
+"DX50 DESC." = "DivX MPEG-4 V5.x";
+"XVID DESC." = "Xvid MPEG-4";
+"MP4V DESC." = "Apple MPEG-4";
+"MPG4 DESC." = "Microsoft MPEG-4 V1";
+"MP42 DESC." = "Microsoft MPEG-4 V2";
+"MP43 DESC." = "Microsoft MPEG-4 V3";
+"MP4S DESC." = "Microsoft ISO MPEG-4 V1";
+"M4S2 DESC." = "Microsoft ISO MPEG-4 V1.1";
+"AP41 DESC." = "AngelPotion Definitive";
+"RMP4 DESC." = "REALmagic MPEG-4";
+"SEDG DESC." = "Samsung MPEG-4";
+"FMP4 DESC." = "FFmpeg MPEG-4";
+"BLZ0 DESC." = "DivX for Blizzard";
+"H263 DESC." = "H.263, H.263+";
+"H264 DESC." = "H.264/MPEG-4 AVC";
+"AVC1 DESC." = "Apple H.264";
+"X264 DESC." = "Open Source H.264";
+"VC1 DESC." = "VC-1 (SMPTE 421M)";
+"WMV1 DESC." = "Windows Media Video 7";
+"WMV2 DESC." = "Windows Media Video 8";
+"WMV3 DESC." = "Windows Media Video 9";
+"WVC1 DESC." = "Windows Media Video 9 Advanced Profile";
+"SVQ1 DESC." = "Sorenson Video 1";
+"SVQ3 DESC." = "Sorenson Video 3";
+"VP3 DESC." = "On2 VP3";
+"VP5 DESC." = "On2 VP5";
+"VP6 DESC." = "TrueMotion VP6";
+"VP6F DESC." = "TrueMotion VP6 Flash";
+"RV10 DESC." = "RealVideo";
+"RV20 DESC." = "RealVideo G2";
+"RV30 DESC." = "RealVideo 8";
+"RV40 DESC." = "RealVideo 9, 10";
+"FLV DESC." = "Flash Video";
+"THEORA DESC." = "Theora";
+"HUFFYUV DESC." = "Huffyuv";
+"CINEPAK DESC." = "Cinepak";
+"INDEO2 DESC." = "Indeo Video 2";
+"INDEO3 DESC." = "Indeo Video 3";
+"MJPEG DESC." = "Motion-JPEG";
+"DV DESC." = "DV";
+"PCM DESC." = "PCM";
+"DPCM DESC." = "DPCM";
+"ADPCM DESC." = "ADPCM";
+"MP2 DESC." = "MP2";
+"MP3 DESC." = "MP3";
+"AAC DESC." = "AAC";
+"AC3 DESC." = "AC3";
+"DTS DESC." = "DTS";
+"VORBIS DESC." = "Vorbis";
+"DVAUDIO DESC." = "DV Audio";
+"WMAV1 DESC." = "Windows Media Audio V1";
+"WMAV2 DESC." = "Windows Media Audio V2";
+"RA DESC." = "RealAudio";
+"AMR DESC." = "AMR";
+"ALAC DESC." = "ALAC";
+"FLAC DESC." = "FLAC";
+"QDM2 DESC." = "QDM2";
+"MACE DESC." = "MACE";
+"SPEEX DESC." = "Speex";
+"TTA DESC." = "TTA";
+"WAVPACK DESC." = "WavPack";

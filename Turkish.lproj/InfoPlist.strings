@@ -1,0 +1,29 @@
+﻿/* Localized versions of Info.plist keys */
+
+CFBundleName = "Movist";		/* This is for the localized "short" name in the app menu bar */
+CFBundleDisplayName = "Movist";	/* This is for the localized "long" name in Finder, etc */
+
+NSHumanReadableCopyright = "Copyright © 2006 ~ 2009 Yong-Hoe Kim, Cheol Ju.\nAll Rights Reserved.";
+
+/* Help book localization */
+
+CFBundleHelpBookName = "Movist Help";
+
+/* File Types */
+"Movie-AVI" = "AVI Movie";
+"Movie-MPEG" = "MPEG Movie";
+"Movie-MPEG1" = "MPEG-1 Movie";
+"Movie-MPEG2" = "MPEG-2 Movie";
+"Movie-MPEG2TS" = "MPEG-2 Transport Stream";
+"Movie-VOB" = "MPEG-2 DVD";
+"Movie-MPEG4" = "MPEG-4 Movie";
+"Movie-QuickTime" = "QuickTime Movie";
+"Movie-WindowsMedia" = "Windows Media Movie";
+"Movie-RealMedia" = "Real Media Movie";
+"Movie-OGM" = "Ogg Media Movie";
+"Movie-MKV" = "Matroska Movie";
+"Movie-FLV" = "Flash Movie";
+"Movie-3GPP" = "3GPP Movie";
+"Movie-3GPP2" = "3GPP2 Movie";
+"Movie-DV" = "DV Movie";
+"Movie-ETC" = "Movie";

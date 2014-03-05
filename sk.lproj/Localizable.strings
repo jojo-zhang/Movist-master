@@ -1,0 +1,259 @@
+﻿/* App General */
+"Cancel" = "Zrušiť";
+"Never" = "Nikdy";
+"None" = "Žiadne";
+"Unnamed" = "nepomenované";
+"Unknown Language" = "neznámy jazyk";
+"Decoder" = "Dekóder";
+"iTunes Movies" = "iTunes Movies";
+"iTunes TV Shows" = "iTunes TV Shows";
+"iTunes Video Podcasts" = "iTunes Video Podcasts";
+"No movie file" = "Žiadny filmový súbor";
+"Subtitle Font Not Found" = "Nenašlo sa titulkové písmo";
+"\"%@\" not found\nSubtitle font setting will be restored to default." =
+    "\"%@\" not found\nPoužije sa predvolené nastavenie titulkov.";
+"Cannot open file" = "Súbor nemožno otvoriť";
+
+/* Check for Updates */
+"Checking for Updates..." = "Kontrola aktualizácií…";
+"Cannot check for update." = "Nemožno skontrolovať aktualizáciu.";
+"No update available." = "Nie je dostupná novšia verzia.";
+"New version %@ is available." = "Je dostupná nová verzia (%@).";
+"Show Updates" = "Zobraziť aktualizácie";
+"Download" = "Prevziať";
+
+/* MainMenu: File */
+"Opening with %@..." = "Otvoriť v %@…";
+
+/* MainMenu: Edit */
+"Copy (Including Letter Box)" = "Kopírovať (vrátane textového rámčeka)";
+"Copy (Excluding Letter Box)" = "Kopírovať (bez textového rámčeka)";
+
+/* MainMenu: Controls */
+"Play_space"  = "Prehrávať                         medzerník";
+"Pause_space" = "Prerušiť                        medzerník";
+"Backward %d sec." = "Dozadu %d sekúnd";
+"Forward %d sec." = "Dopredu %d sekúnd";
+"Volume Up" = "Zvýšiť hlasitosť";
+"Volume Down" = "Znížiť hlasitosť";
+"System Volume Up" = "Zvýšiť systémovú hlasitosť";
+"System Volume Down" = "Znížiť systémovú hlasitosť";
+
+/* MainMenu : Movie */
+"Reopen With %@" = "Znovu otvoriť v %@";
+"No Sound Track" = "Bez zvukovej stopy";
+"Sound Track Rotation" = "Rotovať zvukovú stopu";
+"Save Current Image (Including Letter Box)" = "Uložiť platný obraz (vrátane textového rámčeka)";
+"Save Current Image (Excluding Letter Box)" = "Uložiť platný obraz (bez textového rámčeka)";
+
+/* MainMenu : Subtitle */
+"Show Subtitle" = "Titulky zapnuté";
+"Hide Subtitle" = "Titulky vypnuté";
+"No Subtitle" = "Bez titulkov";
+"Enable %@ - %@" = "Zapnúť %@ - %@";
+"Disable %@ - %@" = "Vypnúť %@ - %@";
+"Subtitle Rotation" = "Rotovať titulky";
+
+/* Message : Playback */
+"Play" = "Prehrávanie";
+"Pause" = "Prerušenie";
+"Beginning" = "Začiatok";
+"End" = "Koniec";
+"Previous Subtitle" = "Predchádzajúci titulok";
+"Next Subtitle" = "Nasledujúci titulok";
+"Previous Frame" = "Predchádzajúci snímok";
+"Next Frame" = "Nasledujúci snímok";
+"Play Rate" = "Rýchlosť prehrávania";
+"Range Repeat Beginning %@" = "Začiatok rozsahu opakovania %@";
+"Range Repeat End %@" = "Koniec rozsahu opakovania %@";
+"Range Repeat Clear" = "Odstrániť rozsah opakovania";
+
+/* Message : common */
+"%@ enabled" = "%@ zapnuté";
+"%@ disabled" = "%@ vypnuté";
+"%@ selected" = "%@ vybrané";
+
+/* Message : Audio */
+"Mute" = "Zvuk vypnutý";
+"Unmute" = "Zvuk zapnutý";
+"Volume" = "Hlasitosť";
+"System Volume" = "Systémová hlasitosť";
+"Volume cannot be changed in Digital-Out" = "Hlasitosť nemožno zmeniť pri digitálnom výstupe";
+"System Volume cannot be changed in Digital-Out Device" = "Systémovú hlasitosť nemožno zmeniť pri zariadení digitálneho výstupu";
+
+/* Message : Video */
+"Brightness" = "Jas";
+"Saturation" = "Sýtosť";
+"Contrast" = "Kontrast";
+"Hue" = "Farba";
+
+/* Message: Subtitle */
+"Cannot Read Subtitle" = "Nemožno načítať titulky";
+"Reopen with other encodings" = "Otvoriť s použitím inej znakovej sady";
+"Letter Box Height : Auto" = "Výška textového rámčeka: automtická";
+"Font Size" = "Veľkosť písma";
+"HMargin" = "Horizontálny okraj";
+"VMargin" = "Vertikálny okraj";
+"Line Spacing" = "Riadkovanie";
+"Sync" = "Synchronizácia";
+"sec." = "sek.";
+"Subtitle %@ selected" = "Titulky %@ vybrané";
+"Subtitle %@ enabled" = "Titulky %@ zapnuté";
+"Subtitle %@ disabled" = "Titulky %@ vypnuté";
+"Subtitle Screen Margin" = "Okraj obrazu titulkov";
+"Subtitle Order" = "Poradie titulkov";
+
+/* Message : Window */
+"Keep on Top of All Other Windows" = "Plávať nad všetkými ostatnými oknami";
+"Don't keep on Top of All Other Windows" = "Zrušiť plávanie nad všetkými ostatnými oknami";
+"Apply on Playing Only" = "Použiť len pri prehrávaní";
+
+/* Control Panel */
+"All Subtitles" = "Všetky titulky";
+"Video Track" = "Videostopa";
+"Sound Track" = "Zvuková stopa";
+"Subtitle Track" = "Titulková stopa";
+"External Subtitle" = "Externé titulky";
+"Mono" = "Mono";
+"Stereo" = "Stereo";
+"5.1 Ch." = "5.1 Ch.";
+"Digital" = "Digital";
+"Analog" = "Analog";
+"Loading" = "Zavádzanie";
+"Not Supported Yet" = "Zatiaľ nie je podporované";
+
+/* Preferences */
+"General" = "Všeobecné";
+"Video" = "Obraz";
+"Audio" = "Zvuk";
+"Subtitle" = "Titulky";
+"Advanced" = "Pokročilé";
+"SubtitleTestChar" = "*";
+
+/* Preferences: advanced - codec binding */
+"Set all to QuickTime" = "Nastaviť všetky na QuickTime";
+"Set all to FFmpeg" = "Nastaviť všetky na FFmpeg";
+"Set all MPEG-4 to QuickTime" = "Nastaviť všetky MPEG-4 na QuickTime";
+"Set all MPEG-4 to FFmpeg" = "Nastaviť všetky MPEG-4 na FFmpeg";
+"Set to Movist default" = "Nastaviť na predvolené podľa Movist";
+
+/* Preferences: advanced - details: general */
+"Activate on Dragging over Main Window" = "Aktivovať ovládač pri pohybe nad oknom";
+"Auto Show Dock in Full Screen" = "Autom. zobraziť Dock pri celoobr. režime";
+"Use Play-Panel in Full Screen" = "Používať prehrávací panel pri celoobr. režime";
+"Floating Playlist" = "Plávajúci zoznam filmov";
+"Go to Beginning When Reopening Movie" = "Prejsť na začiatok pri znovuotvorení filmu";
+"Go to Beginning When Opening Subtitle" = "Prejsť na začiatok pri načítaní titulkov";
+"Movie Resize Center" = "Stred zmeny veľkosti filmu";
+"Title Center" = "Hore v strede";
+"Title Left" = "Hore vľavo";
+"Title Right" = "Hore vpravo";
+"Bottom Center" = "Dole v strede";
+"Bottom Left" = "Dole vľavo";
+"Bottom Right" = "Dole vpravo";
+"Window Resize Type" = "Spôsob zmeny veľkosti okna";
+"Free" = "Slobodný";
+"Adjust to Size" = "Podľa veľkosti";
+"Adjust to Width" = "Podľa šírky";
+"Dragging Action on Movie Area" = "Ťahová akcia v priestore filmu";
+"Move Window" = "Posunúť okno";
+"Capture Movie" = "Zaznamenať film";
+
+/* Preferences: advanced - details: video */
+"Capture Format" = "Formát ukladania snímku";
+"Include Letter Box on Capture" = "Do záznamu zahrnúť aj textový rámček";
+"Remove Green Box" = "Odstrániť zelený rámček";
+"Video Queue Capacity (8~99)" = "Kapacita videofronty (8~99)";
+"Use Fast Decoding" = "Use Fast Decoding";
+
+/* Preferences: advanced - details: subtitle */
+"Use QuickTime/Perian Subtitles" = "Použiť titulky QuickTime/Perian";
+"Auto-Load Embedded Subtitles in MKV" = "Automaticky načítať zabudované titulky v MKV";
+"Replace New-Line with <BR> for SAMI" = "Nahradiť „New-Line“ s <BR> pre SAMI";
+"Default Subtitle Language Identifiers" = "Predvolené idenfitikátory jazyka titulkov";
+"DefaultSubtitleLanguageIdentifiers" = "English en us eng enu ENCC";
+"Auto Letter Box Height Max Lines (1~3)" = "Automatická max. výška textového rámčeka (1~3)";
+
+/* Preferences: advanced - details: full-nav */
+"Full Screen Navigation" = "Celoobrazovková navigácia";
+"Default Navigation Path" = "Predvolená cesta navigácie";
+"Show Actual Path for Alias or Symbolic-Link" = "Zobraziť cestu pre zástupcu alebo Symb.-Link";
+
+/* Playlist */
+"No Subtitle File" = "Žiadny súbor titulkov";
+"%d items" = "%d položiek";
+
+/* Codec Desc. */
+"etc." = "ostatné";
+"etc. DESC." = "ostatné";
+"MPEG1 DESC." = "MPEG-1";
+"MPEG2 DESC." = "MPEG-2";
+"MPEG4 DESC." = "MPEG-4";
+"DIV1 DESC." = "DivX MPEG-4 V3.x";
+"DIV2 DESC." = "DivX MPEG-4 V3.x";
+"DIV3 DESC." = "DivX MPEG-4 V3.x";
+"DIV4 DESC." = "DivX MPEG-4 V3.x";
+"DIV5 DESC." = "DivX MPEG-4 V3.x";
+"DIV6 DESC." = "DivX MPEG-4 V3.x";
+"DIVX DESC." = "DivX MPEG-4 V4.x";
+"DX50 DESC." = "DivX MPEG-4 V5.x";
+"XVID DESC." = "Xvid MPEG-4";
+"MP4V DESC." = "Apple MPEG-4";
+"MPG4 DESC." = "Microsoft MPEG-4 V1";
+"MP42 DESC." = "Microsoft MPEG-4 V2";
+"MP43 DESC." = "Microsoft MPEG-4 V3";
+"MP4S DESC." = "Microsoft ISO MPEG-4 V1";
+"M4S2 DESC." = "Microsoft ISO MPEG-4 V1.1";
+"AP41 DESC." = "AngelPotion Definitive";
+"RMP4 DESC." = "REALmagic MPEG-4";
+"SEDG DESC." = "Samsung MPEG-4";
+"FMP4 DESC." = "FFmpeg MPEG-4";
+"BLZ0 DESC." = "DivX for Blizzard";
+"H263 DESC." = "H.263, H.263+";
+"H264 DESC." = "H.264/MPEG-4 AVC";
+"AVC1 DESC." = "Apple H.264";
+"X264 DESC." = "Open Source H.264";
+"VC1 DESC." = "VC-1 (SMPTE 421M)";
+"WMV1 DESC." = "Windows Media Video 7";
+"WMV2 DESC." = "Windows Media Video 8";
+"WMV3 DESC." = "Windows Media Video 9";
+"WVC1 DESC." = "Windows Media Video 9 Advanced Profile";
+"SVQ1 DESC." = "Sorenson Video 1";
+"SVQ3 DESC." = "Sorenson Video 3";
+"VP3 DESC." = "On2 VP3";
+"VP5 DESC." = "On2 VP5";
+"VP6 DESC." = "TrueMotion VP6";
+"VP6F DESC." = "TrueMotion VP6 Flash";
+"RV10 DESC." = "RealVideo";
+"RV20 DESC." = "RealVideo G2";
+"RV30 DESC." = "RealVideo 8";
+"RV40 DESC." = "RealVideo 9, 10";
+"FLV DESC." = "Flash Video";
+"THEORA DESC." = "Theora";
+"HUFFYUV DESC." = "Huffyuv";
+"CINEPAK DESC." = "Cinepak";
+"INDEO2 DESC." = "Indeo Video 2";
+"INDEO3 DESC." = "Indeo Video 3";
+"MJPEG DESC." = "Motion-JPEG";
+"DV DESC." = "DV";
+"PCM DESC." = "PCM";
+"DPCM DESC." = "DPCM";
+"ADPCM DESC." = "ADPCM";
+"MP2 DESC." = "MP2";
+"MP3 DESC." = "MP3";
+"AAC DESC." = "AAC";
+"AC3 DESC." = "AC3";
+"DTS DESC." = "DTS";
+"VORBIS DESC." = "Vorbis";
+"DVAUDIO DESC." = "DV Audio";
+"WMAV1 DESC." = "Windows Media Audio V1";
+"WMAV2 DESC." = "Windows Media Audio V2";
+"RA DESC." = "RealAudio";
+"AMR DESC." = "AMR";
+"ALAC DESC." = "ALAC";
+"FLAC DESC." = "FLAC";
+"QDM2 DESC." = "QDM2";
+"MACE DESC." = "MACE";
+"SPEEX DESC." = "Speex";
+"TTA DESC." = "TTA";
+"WAVPACK DESC." = "WavPack";

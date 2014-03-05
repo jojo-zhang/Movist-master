@@ -1,0 +1,275 @@
+/* App General */
+"Cancel" = "Cancel";
+"Never" = "Never";
+"None" = "None";
+"Unnamed" = "Unnamed";
+"Unknown Language" = "Unknown Language";
+"Decoder" = "Decoder";
+"iTunes Movies" = "iTunes Movies";
+"iTunes TV Shows" = "iTunes TV Shows";
+"iTunes Video Podcasts" = "iTunes Video Podcasts";
+"No movie file" = "No movie file";
+"Subtitle Font Not Found" = "Subtitle Font Not Found";
+"\"%@\" not found\nSubtitle font setting will be restored to default." =
+    "\"%@\" not found\nSubtitle font setting will be restored to default.";
+"Cannot open file" = "Cannot open file";
+
+/* Check for Updates */
+"Checking for Updates..." = "Checking for Updates...";
+"Cannot check for update." = "Cannot check for update.";
+"No update available." = "No update available.";
+"New version %@ is available." = "New version %@ is available.";
+"Show Updates" = "Show Updates";
+"Download" = "Download";
+
+/* MainMenu: File */
+"Opening with %@..." = "Opening with %@...";
+
+/* MainMenu: Edit */
+"Copy (Including Letter Box)" = "Copy (Including Letter Box)";
+"Copy (Excluding Letter Box)" = "Copy (Excluding Letter Box)";
+
+/* MainMenu: Controls */
+"Play_space"  = "Play               space";
+"Pause_space" = "Pause              space";
+"Backward %d sec." = "Backward %d sec.";
+"Forward %d sec." = "Forward %d sec.";
+"Volume Up" = "Volume Up";
+"Volume Down" = "Volume Down";
+"System Volume Up" = "System Volume Up";
+"System Volume Down" = "System Volume Down";
+
+/* MainMenu : Movie */
+"Reopen With %@" = "Reopen With %@";
+"No Sound Track" = "No Sound Track";
+"Sound Track Rotation" = "Sound Track Rotation";
+"Save Current Image (Including Letter Box)" = "Save Current Image (Including Letter Box)";
+"Save Current Image (Excluding Letter Box)" = "Save Current Image (Excluding Letter Box)";
+
+/* MainMenu : Subtitle */
+"Show Subtitle" = "Show Subtitle";
+"Hide Subtitle" = "Hide Subtitle";
+"No Subtitle" = "No Subtitle";
+"Enable %@ - %@" = "Enable %@ - %@";
+"Disable %@ - %@" = "Disable %@ - %@";
+"Subtitle Rotation" = "Subtitle Rotation";
+
+/* Message : Playback */
+"Play" = "Play";
+"Pause" = "Pause";
+"Beginning" = "Beginning";
+"End" = "End";
+"Previous Subtitle" = "Previous Subtitle";
+"Next Subtitle" = "Next Subtitle";
+"Previous Frame" = "Previous Frame";
+"Next Frame" = "Next Frame";
+"Play Rate" = "Play Rate";
+"Range Repeat Beginning %@" = "Range Repeat Beginning %@";
+"Range Repeat End %@" = "Range Repeat End %@";
+"Range Repeat Clear" = "Range Repeat Clear";
+
+/* Message : common */
+"%@ enabled" = "%@ enabled";
+"%@ disabled" = "%@ disabled";
+"%@ selected" = "%@ selected";
+
+/* Message : Audio */
+"Mute" = "Mute";
+"Unmute" = "Unmute";
+"Volume" = "Volume";
+"System Volume" = "System Volume";
+"Volume cannot be changed in Digital-Out" = "Volume cannot be changed in Digital-Out";
+"System Volume cannot be changed in Digital-Out Device" = "System Volume cannot be changed in Digital-Out Device";
+
+/* Message : Video */
+"Brightness" = "Brightness";
+"Saturation" = "Saturation";
+"Contrast" = "Contrast";
+"Hue" = "Hue";
+
+/* Message: Subtitle */
+"Cannot Read Subtitle" = "Cannot Read Subtitle";
+"Reopen with other encodings" = "Reopen with other encodings";
+"Letter Box Height : Auto" = "Letter Box Height : Auto";
+"Font Size" = "Font Size";
+"HMargin" = "HMargin";
+"VMargin" = "VMargin";
+"Line Spacing" = "Line Spacing";
+"Sync" = "Sync";
+"sec." = "sec.";
+"Subtitle %@ selected" = "Subtitle %@ selected";
+"Subtitle %@ enabled" = "Subtitle %@ enabled";
+"Subtitle %@ disabled" = "Subtitle %@ disabled";
+"Subtitle Screen Margin" = "Subtitle Screen Margin";
+"Subtitle Order" = "Subtitle Order";
+
+/* Message : Window */
+"Keep on Top of All Other Windows" = "Keep on Top of All Other Windows";
+"Don't keep on Top of All Other Windows" = "Don't keep on Top of All Other Windows";
+"Apply on Playing Only" = "Apply on Playing Only";
+
+/* Control Panel */
+"All Subtitles" = "All Subtitles";
+"Video Track" = "Video Track";
+"Sound Track" = "Sound Track";
+"Subtitle Track" = "Subtitle Track";
+"External Subtitle" = "External Subtitle";
+"Mono" = "Mono";
+"Stereo" = "Stereo";
+"5.1 Ch." = "5.1 Ch.";
+"Digital" = "Digital";
+"Analog" = "Analog";
+"Loading" = "Loading";
+"Not Supported Yet" = "Not Supported Yet";
+
+/* Preferences */
+"General" = "General";
+"Video" = "Video";
+"Audio" = "Audio";
+"Subtitle" = "Subtitle";
+"Advanced" = "Advanced";
+"SubtitleTestChar" = "*";
+
+/* Preferences: advanced - codec binding */
+"Set all to QuickTime" = "Set all to QuickTime";
+"Set all to FFmpeg" = "Set all to FFmpeg";
+"Set all MPEG-4 to QuickTime" = "Set all MPEG-4 to QuickTime";
+"Set all MPEG-4 to FFmpeg" = "Set all MPEG-4 to FFmpeg";
+"Set to Movist default" = "Set to Movist default";
+
+/* Preferences: advanced - details: general */
+"Activate on Dragging over Main Window" = "Activate on Dragging over Main Window";
+"Auto Show Dock in Full Screen" = "Auto Show Dock in Full Screen";
+"Use Play-Panel in Full Screen" = "Use Play-Panel in Full Screen";
+"Floating Playlist" = "Floating Playlist";
+"Go to Beginning When Reopening Movie" = "Go to Beginning When Reopening Movie";
+"Go to Beginning When Opening Subtitle" = "Go to Beginning When Opening Subtitle";
+"Movie Resize Center" = "Movie Resize Center";
+"Title Center" = "Title Center";
+"Title Left" = "Title Left";
+"Title Right" = "Title Right";
+"Bottom Center" = "Bottom Center";
+"Bottom Left" = "Bottom Left";
+"Bottom Right" = "Bottom Right";
+"Window Resize Type" = "Window Resize Type";
+"Free" = "Free";
+"Adjust to Size" = "Adjust to Size";
+"Adjust to Width" = "Adjust to Width";
+"Dragging Action on Movie Area" = "Dragging Action on Movie Area";
+"Move Window" = "Move Window";
+"Capture Movie" = "Capture Movie";
+
+/* Preferences: advanced - details: video */
+"Capture Format" = "Capture Format";
+"Include Letter Box on Capture" = "Include Letter Box on Capture";
+"Remove Green Box" = "Remove Green Box";
+"Video Queue Capacity (8~99)" = "Video Queue Capacity (8~99)";
+"Use Fast Decoding" = "Use Fast Decoding";
+
+/* Preferences: advanced - details: subtitle */
+"Use QuickTime/Perian Subtitles" = "Use QuickTime/Perian Subtitles";
+"Auto-Load Embedded Subtitles in MKV" = "Auto-Load Embedded Subtitles in MKV";
+"Replace New-Line with <BR> for SAMI" = "Replace New-Line with <BR> for SAMI";
+"Default Subtitle Language Identifiers" = "Default Subtitle Language Identifiers";
+"DefaultSubtitleLanguageIdentifiers" = "English en us eng enu ENCC";
+"Auto Letter Box Height Max Lines (1~3)" = "Auto Letter Box Height Max Lines (1~3)";
+
+/* Preferences: advanced - details: full-nav */
+"Full Screen Navigation" = "Full Screen Navigation";
+"Default Navigation Path" = "Default Navigation Path";
+"Show Actual Path for Alias or Symbolic-Link" = "Show Actual Path for Alias or Symbolic-Link";
+
+/* Playlist */
+"No Subtitle File" = "No Subtitle File";
+"%d items" = "%d items";
+
+/* Codec Desc. */
+"etc." = "Etc.";
+"etc. DESC." = "Etc.";
+"MPEG1 DESC." = "MPEG-1";
+"MPEG2 DESC." = "MPEG-2";
+"MPEG4 DESC." = "MPEG-4";
+"DIV1 DESC." = "DivX MPEG-4 V3.x";
+"DIV2 DESC." = "DivX MPEG-4 V3.x";
+"DIV3 DESC." = "DivX MPEG-4 V3.x";
+"DIV4 DESC." = "DivX MPEG-4 V3.x";
+"DIV5 DESC." = "DivX MPEG-4 V3.x";
+"DIV6 DESC." = "DivX MPEG-4 V3.x";
+"DIVX DESC." = "DivX MPEG-4 V4.x";
+"DX50 DESC." = "DivX MPEG-4 V5.x";
+"XVID DESC." = "Xvid MPEG-4";
+"MP4V DESC." = "Apple MPEG-4";
+"MPG4 DESC." = "Microsoft MPEG-4 V1";
+"MP42 DESC." = "Microsoft MPEG-4 V2";
+"MP43 DESC." = "Microsoft MPEG-4 V3";
+"MP4S DESC." = "Microsoft ISO MPEG-4 V1";
+"M4S2 DESC." = "Microsoft ISO MPEG-4 V1.1";
+"AP41 DESC." = "AngelPotion Definitive";
+"RMP4 DESC." = "REALmagic MPEG-4";
+"SEDG DESC." = "Samsung MPEG-4";
+"FMP4 DESC." = "FFmpeg MPEG-4";
+"BLZ0 DESC." = "DivX for Blizzard";
+"H263 DESC." = "H.263, H.263+";
+"H264 DESC." = "H.264/MPEG-4 AVC";
+"AVC1 DESC." = "Apple H.264";
+"X264 DESC." = "Open Source H.264";
+"VC1 DESC." = "VC-1 (SMPTE 421M)";
+"WMV1 DESC." = "Windows Media Video 7";
+"WMV2 DESC." = "Windows Media Video 8";
+"WMV3 DESC." = "Windows Media Video 9";
+"WVC1 DESC." = "Windows Media Video 9 Advanced Profile";
+"SVQ1 DESC." = "Sorenson Video 1";
+"SVQ3 DESC." = "Sorenson Video 3";
+"VP3 DESC." = "On2 VP3";
+"VP5 DESC." = "On2 VP5";
+"VP6 DESC." = "TrueMotion VP6";
+"VP6F DESC." = "TrueMotion VP6 Flash";
+"RV10 DESC." = "RealVideo";
+"RV20 DESC." = "RealVideo G2";
+"RV30 DESC." = "RealVideo 8";
+"RV40 DESC." = "RealVideo 9, 10";
+"FLV DESC." = "Flash Video";
+"THEORA DESC." = "Theora";
+"HUFFYUV DESC." = "Huffyuv";
+"CINEPAK DESC." = "Cinepak";
+"INDEO2 DESC." = "Indeo Video 2";
+"INDEO3 DESC." = "Indeo Video 3";
+"MJPEG DESC." = "Motion-JPEG";
+"DV DESC." = "DV";
+"PCM DESC." = "PCM";
+"DPCM DESC." = "DPCM";
+"ADPCM DESC." = "ADPCM";
+"MP2 DESC." = "MP2";
+"MP3 DESC." = "MP3";
+"AAC DESC." = "AAC";
+"AC3 DESC." = "AC3";
+"DTS DESC." = "DTS";
+"VORBIS DESC." = "Vorbis";
+"DVAUDIO DESC." = "DV Audio";
+"WMAV1 DESC." = "Windows Media Audio V1";
+"WMAV2 DESC." = "Windows Media Audio V2";
+"RA DESC." = "RealAudio";
+"AMR DESC." = "AMR";
+"ALAC DESC." = "ALAC";
+"FLAC DESC." = "FLAC";
+"QDM2 DESC." = "QDM2";
+"MACE DESC." = "MACE";
+"SPEEX DESC." = "Speex";
+"TTA DESC." = "TTA";
+"WAVPACK DESC." = "WavPack";
+"WMAVOICE DESC." = "Windows Media Audio Voice";
+"WMAPRO DESC." = "Windows Media Audio Pro";
+"WMALOSSLESS DESC." = "Windows Media Audio Lossless";
+"ATRAC3P DESC." = "ATRAC3 Plus";
+"EAC3 DESC." = "Dolby Digital Plus";
+"SIPR DESC." = "RealAudio Sipro Voice";
+"MP1 DESC." = "MPEG-1 Audio Layer 1";
+"TWINVQ DESC." = "TwinVQ";
+"TRUEHD DESC." = "Dolby TrueHD";
+"MP4ALS DESC." = "MPEG-4 Audio Lossless Coding";
+"ATRAC1 DESC." = "ATRAC1";
+"BINKAUDIO_RDFT DESC." = "Bink (RDFT)";
+"BINKAUDIO_DCT DESC." = "Bink (DCT)";
+"AAC_LATM DESC." = "AAC LATM";
+"QDMC DESC." = "QDesign";
+"CELT DESC." = "CELT";
